@@ -17,16 +17,24 @@ This started out as a homework assignment for a python class I had at North Seat
 In .ppm images, each pixel is represented by 3 numbers, one for red, blue, and green, with values between 0 and 255. The program manipulates these values to perform various transformations on images. Three transformations are performed, one converting the image to black and white, another removing all red values (sets red to 0), and the final transformation reverses the order of the pixels causing the image to flip. See the examples below.
 
 Original Image
+
 ![image](https://raw.githubusercontent.com/joseph-sayler/class_projects/master/imgManipulator/examples/logo.png)
 
+
 Black and White transformation
+
 ![image](https://raw.githubusercontent.com/joseph-sayler/class_projects/master/imgManipulator/examples/gr_logo.png)
 
+
 Removal of Red transformation
+
 ![image](https://raw.githubusercontent.com/joseph-sayler/class_projects/master/imgManipulator/examples/nr_logo.png)
 
+
 Image Flip transformation
+
 ![image](https://raw.githubusercontent.com/joseph-sayler/class_projects/master/imgManipulator/examples/fl_logo.png)
+
 
 To do:
 * create a gui with file explorer making it easier to pick images for transformation
