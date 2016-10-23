@@ -9,5 +9,4 @@ To test the class, I created a  sample test case that lists all of the class met
 
 To do:
 * add javadocs to the class
-* work on static method daysTo (it doesn't seem to work for me anymore)
 * create some type of interface (tui or gui)
