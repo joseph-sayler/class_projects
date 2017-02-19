@@ -28,6 +28,7 @@ The `daysTo` method compares two Date objects (this date object and some other d
 The `isLeapYear` method returns a boolean value if a particular year is a leap year. It is used in a few other methods (such as `getDOY`), but is also made available as a public method to let a user know if their date object is a leap year or not.
 
 To do:
+- [ ] create interactive test client
 - [ ] add javadocs to the class
 - [ ] create some type of interface (tui or gui)
 
