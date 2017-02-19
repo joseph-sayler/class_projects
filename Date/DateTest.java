@@ -1,7 +1,7 @@
 
 public class DateTest {
 	public static void main(String[] args) {
-		Date date1 = new Date(1980, 7, 8);
+		Date date1 = new Date(1980, 12, 25);
 		Date date2 = new Date();
 		System.out.println("");
 		System.out.println("This is a test of Date.class; 2 objects will be");
@@ -9,7 +9,7 @@ public class DateTest {
 		System.out.println("will be tested.");
 		System.out.println("");
 		System.out.println("Object \'date1\' created using main constructor");
-		System.out.println("with date data 7/8/1980");
+		System.out.println("with date data 12/25/1980");
 		System.out.println("Object \'date2\' created using default constructor");
 		System.out.println("which uses date data 1/1/1970");
 		System.out.println("");
